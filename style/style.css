@@ -1,0 +1,60 @@
+body {
+    font-family: "Poppins";
+    margin: 0px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  p {
+    color: dimgray;
+  }
+  .name-hightlight {
+    color : rgb(177, 88, 4);
+  }
+  
+  .half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+  }
+  .half-width img {
+    width: 100%;
+  }
+  section {
+    height: 500px;
+    padding-bottom: 150px;
+  }
+  .link-button {
+    text-decoration: none;
+    background-color: rgb(177, 88, 4) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+  }
+  .dream-color {
+    color: palevioletred;
+  }
+  .single-experience {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+    background-color: rgb(236, 230, 230);
+  }
+  #fullStack {
+    border-left: 7px solid rgb(95, 66, 4);
+  }
+  #newbie {
+    border-left: 7px solid rgb(247, 199, 127);
+  }
+  footer p {
+    text-align: center;
+    font-size: 10px;
+  }
